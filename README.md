@@ -1,5 +1,7 @@
 [![Circle CI](https://circleci.com/gh/sameersbn/docker-bind.svg?style=shield)](https://circleci.com/gh/sameersbn/docker-bind) [![Docker Repository on Quay.io](https://quay.io/repository/sameersbn/bind/status "Docker Repository on Quay.io")](https://quay.io/repository/sameersbn/bind)
 
+# WARNING : This is just a temporary repository for fixing the logging (-g/-f) issue on "sameersbn/bind:9.11.3-20190706" docker image
+
 # sameersbn/bind:9.11.3-20190706
 
 - [Introduction](#introduction)
